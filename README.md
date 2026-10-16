@@ -69,7 +69,7 @@ This folder is a local Git repository with its project files staged. Create an e
 
     cd D:\Daikibo-Data-Analytics-Portfolio
     git commit -m "Add Daikibo analytics portfolio"
-    git remote add origin https://github.com/YOUR_GITHUB_USERNAME/Daikibo-Data-Analytics-Portfolio.git
+    git remote add origin [https://github.com/GopikrishnaGundepogu](https://github.com/GopikrishnaGundepogu)/Daikibo-Data-Analytics-Portfolio.git
     git push -u origin main
 
 After the push, the GitHub repository URL can be shared on LinkedIn.
